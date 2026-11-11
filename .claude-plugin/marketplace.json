@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ponytail",
+  "name": "ponytail-Arthur",
   "description": "Lazy senior dev mode for AI agents. The best code is the code you never wrote.",
   "owner": {
     "name": "Dietrich Gebert",
