@@ -58,13 +58,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="../assets/retriever-logo-dark.svg">
     <img src="../assets/retriever-logo-light.svg" height="128" alt="Retriever">
   </picture>
-</a>
-<a href="https://photoreunion.app/?ref=ponytail-gh">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/photoreunion-logo-dark.svg">
-    <img src="../assets/photoreunion-logo-light.svg" height="128" alt="PhotoReunion">
-  </picture>
-</a>
 
 ---
 
